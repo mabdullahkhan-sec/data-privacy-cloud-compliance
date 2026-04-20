@@ -25,10 +25,10 @@ Cloud adoption has accelerated the exposure of sensitive data across distributed
 
 ## Key Contributions
 
-- **Multi-layer encoding framework** — A proposed architecture for strengthening data privacy across cloud storage, transit, and processing layers
-- **Comparative analysis** — Evaluation of existing privacy-preserving techniques and their trade-offs
-- **Compliance-as-code** — Coverage of automating compliance checks within cloud infrastructure pipelines
-- **Framework mapping** — Alignment with GDPR, ISO 27001, and NIST guidelines
+- **Multi-layer encoding framework** - A proposed architecture for strengthening data privacy across cloud storage, transit, and processing layers
+- **Comparative analysis** - Evaluation of existing privacy-preserving techniques and their trade-offs
+- **Compliance-as-code** - Coverage of automating compliance checks within cloud infrastructure pipelines
+- **Framework mapping** - Alignment with GDPR, ISO 27001, and NIST guidelines
 
 ---
 
